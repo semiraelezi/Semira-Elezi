@@ -1,0 +1,21 @@
+{
+  "name": "threejs-aquarium",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.172.0",
+    "yuka": "^0.7.8"
+  },
+  "devDependencies": {
+    "vite": "^4.5.9"
+  },
+  "main": "script.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
